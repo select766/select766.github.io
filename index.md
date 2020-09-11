@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[イベント参加記録](/event-history)
