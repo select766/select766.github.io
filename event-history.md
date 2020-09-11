@@ -1,6 +1,8 @@
+---
 layout: page
 title: "イベント参加記録"
 permalink: /event-history/
+---
 
 工事中
 
