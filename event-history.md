@@ -12,5 +12,7 @@ permalink: /event-history/
   * 新刊: 「PokéAI #3:金銀導入編」 紙版・電子書籍版
 * 2020-03-07 [技術書典 応援祭](https://techbookfest.org/market) (オンラインイベント)
   * 2020-03-01予定の[技術書典8](https://techbookfest.org/event/tbf08)は新型コロナウイルスの影響で中止 配置: Day2あ10 [サークル情報](https://techbookfest.org/event/tbf08/circle/5139454356357120)
+  * 新刊なし。「PokéAI #3:金銀導入編」の購入者に対し追加記事「#3.5: 金銀導入編追加DLC」を電子的に提供。
 * 2020-09-12 [技術書典9](https://techbookfest.org/event/tbf09) (オンラインイベント) 配置: ネットの海3748 [サークル情報](https://techbookfest.org/organization/29050048)
   * 新刊: 「PokéAI #4:金銀汎用行動選択モデル編」 電子書籍版のみ発行
+* 2020-12-26 [技術書典10](https://techbookfest.org/event/tbf10) (オンラインイベント) 配置位置なし
