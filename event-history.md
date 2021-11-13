@@ -17,5 +17,7 @@ permalink: /event-history/
   * 新刊: 「PokéAI #4:金銀汎用行動選択モデル編」 電子書籍版のみ発行
 * 2020-12-26 [技術書典10](https://techbookfest.org/event/tbf10) (オンラインイベント) 配置: ネットの海8dd4 [サークル情報](https://techbookfest.org/organization/29050048)
   * 新刊なし。2020-12-24付で第3巻電子版を無料化。
-* 2020-12-30 [エアコミケ2]() (オンラインイベント) 配置: A05315 [サークル情報](https://portal.circle.ms/Circle/Index/10423250)
+* 2020-12-30 [エアコミケ2](https://air.comiket.co.jp/) (オンラインイベント) 配置: A05315 [サークル情報](https://portal.circle.ms/Circle/Index/10423250)
   * Webカタログ掲載のみ。[BOOTH](https://select766.booth.pm/)にて、電子版のみすべての既刊を頒布。
+* 2021-07-10 [技術書典11](https://techbookfest.org/event/tbf11) (オンラインイベント) 配置: ネットの海4ed3 [サークル情報](https://techbookfest.org/organization/29050048)
+  * 新刊なし。すべての既刊を配布。
