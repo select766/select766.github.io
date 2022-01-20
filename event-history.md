@@ -21,3 +21,6 @@ permalink: /event-history/
   * Webカタログ掲載のみ。[BOOTH](https://select766.booth.pm/)にて、電子版のみすべての既刊を頒布。
 * 2021-07-10 [技術書典11](https://techbookfest.org/event/tbf11) (オンラインイベント) 配置: ネットの海4ed3 [サークル情報](https://techbookfest.org/organization/29050048)
   * 新刊なし。すべての既刊を配布。
+* 2022-01-22 [技術書典12](https://techbookfest.org/event/tbf12) (オンラインイベント) 配置: ネットの海dd17 [サークル情報](https://techbookfest.org/organization/29050048)
+  * 新刊: 「Deep Learning Code Golfやってみた」 紙版・電子書籍版
+  * 既刊については電子書籍のみ配布。
