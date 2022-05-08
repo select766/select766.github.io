@@ -9,6 +9,8 @@ layout: home
 
 [同人誌即売会参加履歴](/event-history)
 
+[コンピュータ将棋大会参加履歴](/shogi-history)
+
 # 同人誌刊行情報
 
 * ポケモンバトルAI開発本シリーズ「PokéAI」
