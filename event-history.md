@@ -24,3 +24,5 @@ permalink: /event-history/
 * 2022-01-22 [技術書典12](https://techbookfest.org/event/tbf12) (オンラインイベント) 配置: ネットの海dd17 [サークル情報](https://techbookfest.org/organization/29050048)
   * 新刊: 「Deep Learning Code Golfやってみた」 紙版・電子書籍版
   * 既刊については電子書籍のみ配布。
+* 2022-09-10 [技術書典13](https://techbookfest.org/event/tbf13) (オンラインイベント) 配置: オ09(オンライン) [サークル情報](https://techbookfest.org/organization/29050048)
+  * 情報は今後記載
