@@ -26,3 +26,5 @@ permalink: /event-history/
   * 既刊については電子書籍のみ配布。
 * 2022-09-10 [技術書典13](https://techbookfest.org/event/tbf13) (オンラインイベント) 配置: オ09(オンライン) [サークル情報](https://techbookfest.org/organization/29050048)
   * 新刊なし。「PokéAI #4:金銀汎用行動選択モデル編」の購入者に対し追加記事「#4.5: 汎用行動選択モデル編DLC」を電子的に提供。
+* 2022-09-10 [技術書典14](https://techbookfest.org/event/tbf14) (オンラインイベント) 配置: シ05(オンライン) [サークル情報](https://techbookfest.org/organization/29050048)
+  * 新刊なし。
