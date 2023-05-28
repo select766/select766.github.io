@@ -1,7 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
 .main-content {
   h1 {
    color: #ff0000;
