@@ -6,6 +6,8 @@ permalink: /shogi-history/
 
 参加ソフト名は常に「ねね将棋」(NENE Shogi)。中身は毎回大きく異なる。
 
+ねね将棋の由来: (1)利用している技術「NEural NEtwork」（ニューラルネットワーク）から文字を取ってNENE。(2)漫画「NEW GAME!」の登場人物「ねねっち」が作中で開発したゲーム「NENE QUEST」の形式（NENE＋ゲームジャンル）を踏襲。
+
 # 大会一覧
 
 * 2017-11-11 [第5回将棋電王トーナメント](http://denou.jp/tournament2017/)
