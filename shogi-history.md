@@ -12,18 +12,18 @@ permalink: /shogi-history/
 
 * 2017-11-11 [第5回将棋電王トーナメント](http://denou.jp/tournament2017/)
   * 予選にて3勝5敗で32位（42チーム中）
-  * 記事 https://select766.hatenablog.com/entry/2017/12/14/081930
+  * 記事 <https://select766.hatenablog.com/entry/2017/12/14/081930>
   * ねね将棋がデビューしたイベント
   * Python言語でプログラム部分はほぼすべて自作。評価関数は、やねうら王で生成、配布された学習用棋譜を用いてCNN（畳み込みニューラルネットワーク）を教師あり学習。探索部は「芝浦将棋Softmax」で提案されたMonte Carlo Softmax Searchを実装。
   * 主催者が用意したハードウェアで対局するイベントであり、GPUを搭載したゲーミングPCを利用。
 * 2018-05-03 [第28回世界コンピュータ将棋選手権](http://www2.computer-shogi.org/wcsc28/)
   * 1次予選で5勝3敗（1不戦勝含む）で15位（40チーム中）
-  * 記事 https://select766.hatenablog.com/entry/2018/05/07/222547
+  * 記事 <https://select766.hatenablog.com/entry/2018/05/07/222547>
   * 差分: やねうら王を改造し、C++言語でMCTSを実装。AWSクラウド上でGPUを利用して実行。
   * 評価関数は、やねうら王で生成、配布された学習用棋譜を用いてCNNを教師あり学習。(仕組みは前回とほぼ変わらないがモデルの規模を大きくした)
 * 2019-05-03 [第29回世界コンピュータ将棋選手権](http://www2.computer-shogi.org/wcsc29/)
   * 1次予選で5勝3敗で10位（40チーム中）
-  * 記事 https://select766.hatenablog.com/entry/2019/05/05/205225
+  * 記事 <https://select766.hatenablog.com/entry/2019/05/05/205225>
   * 差分: 末端局面での詰み探索を付加し、優勢になってからちゃんと勝ち切れるようにした。
   * 評価関数は、やねうら王で生成、配布された学習用棋譜を用いてCNNを教師あり学習。
   * AWSクラウド上でGPUを利用して実行。
@@ -39,7 +39,7 @@ permalink: /shogi-history/
   * オンライン開催
   * 1次予選で5勝3敗で11位（34チーム中）
   * 2次予選で3勝5敗1分で23位（30チーム中）
-  * 記事 https://select766.hatenablog.com/entry/2021/05/05/181556
+  * 記事 <https://select766.hatenablog.com/entry/2021/05/05/181556>
   * 差分: 独自の探索部を破棄。dlshogiを改造し、policyに対しKPPT型ソフトの最善手をブレンド。
   * 利用ハードウェアは自宅のデスクトップPC。
 * 2022-04-02 [電竜戦さくらリーグ2022](https://golan.sakura.ne.jp/denryusen/dr3_sakura/dr1_live.php)
@@ -50,7 +50,7 @@ permalink: /shogi-history/
 * 2022-05-03 [第32回世界コンピュータ将棋選手権](http://www2.computer-shogi.org/wcsc32/)
   * オンライン・オフライン混合開催で、オフライン参加した
   * 2次予選（前年順位によるシードとして参加）で1勝7敗1分で27位（28チーム中）
-  * 記事 https://select766.hatenablog.com/entry/2022/05/05/230100
+  * 記事 <https://select766.hatenablog.com/entry/2022/05/05/230100>
   * 差分: 電竜戦さくらリーグ2022からは、iPad単独で対局サーバと通信できるようにした。
   * iPad上で動作するソフトをSwift言語で新規に開発。機械学習専用チップNeural Engineを活用。評価関数は「強い将棋ソフトの作り方」のサンプルコードで学習したdlshogiベース。iPad上で動作するプログラムはすべて自作。
   * 利用ハードウェアはiPad（第9世代）。
@@ -58,14 +58,14 @@ permalink: /shogi-history/
   * オンライン開催
   * B級リーグ6勝11敗で12位（18チーム中）
   * 上位のA級リーグに10チームいるため、トータルで22位
-  * 記事 https://select766.hatenablog.com/entry/2022/12/06/210426
+  * 記事 <https://select766.hatenablog.com/entry/2022/12/06/210426>
   * 差分: 独自の探索部を破棄。ふかうら王（やねうら王のDL評価関数バージョン）をiPad用に移植。機械学習専用チップNeural Engineを活用。評価関数は「強い将棋ソフトの作り方」のサンプルコードで学習したdlshogiベース。
   * 利用ハードウェアはiPad（第9世代）。ただしUSIプロトコルで外部と通信するため、CSAプロトコルが必要な対局サーバとの通信のためMac上で動作する将棋所（将棋AI用のGUI）を併用。
 * 2023-05-03 [第33回世界コンピュータ将棋選手権](http://www2.computer-shogi.org/wcsc33/)
   * オンライン・オフライン混合開催で、オフライン参加した
   * 1次予選で7勝1敗で2位（28チーム中）
   * 2次予選で3勝6敗で23位（28チーム中）
-  * 記事 https://select766.hatenablog.com/entry/2023/05/05/140100
+  * 記事 <https://select766.hatenablog.com/entry/2023/05/05/140100>
   * 差分: やねうら王（NNUE評価関数）とふかうら王（やねうら王のDL評価関数バージョン）両方をiPad用に移植し、同時に動作させ、合議。やねうら王側の評価関数は水匠5。
   * ふかうら王側の評価関数は「強い将棋ソフトの作り方」のサンプルコードで学習したdlshogiベース。
   * 利用ハードウェアはiPad（第9世代）。合議のみMacで処理。
@@ -79,7 +79,7 @@ permalink: /shogi-history/
     * 【第二部ネタ部門】 6勝6敗 11位
     * 【第三部居飛車部門】 6.4勝5.6敗 11位
     * 【第四部対抗系部門】 5勝7敗 16位
-  * 記事: https://select766.hatenablog.com/entry/2023/07/02/113253
+  * 記事 <https://select766.hatenablog.com/entry/2023/07/02/113253>
   * 差分: なし。第33回世界コンピュータ将棋選手権のプログラム・設定と全く同じ。指定局面特有の変更は不要だった。
   * 利用ハードウェアはiPad（第9世代）。合議のみMacで処理。
 
