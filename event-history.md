@@ -31,3 +31,5 @@ permalink: /event-history/
 * 2023-11-11 [技術書典15](https://techbookfest.org/event/tbf15) (オンラインイベント) 配置: エ13(オンライン) [サークル情報](https://techbookfest.org/organization/29050048)
   * 新刊: 「[ゲームボーイに強化学習を実装してみた](https://techbookfest.org/product/1QYFFvrVeTDUU3u4HnkE9p)」 紙版・電子書籍版
   * 既刊については電子書籍のみ配布。
+* 2024-05-25 [技術書典16](https://techbookfest.org/event/tbf16) (オンラインイベント) 配置: イ32(オンライン) [サークル情報](https://techbookfest.org/organization/29050048)
+  * 新刊なし。
