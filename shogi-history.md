@@ -100,6 +100,9 @@ permalink: /shogi-history/
   * 利用ハードウェアはiPhone 15 Pro。
 * 2024-06-29 [第5回電竜戦TSEC指定局面戦](https://denryu-sen.jp/denryusen/dr5_tsec/dr1_live.php)
   * オンライン開催
+  * 第1部で11勝13敗で23位（28チーム中）
+  * 第2部は不参加
+  * 記事 <https://select766.hatenablog.com/entry/2024/06/29/192614>
   * ソフト名「うぉっち・ざ・るーく！」由来：漫画「ぼっち・ざ・ろっく！」のタイトルにインスパイアされた。スマートウォッチを使っている点をアピールする名前にした。一回限りのネタソフトなので、「ねね将棋」シリーズとは別の名前を付けた。
   * やねうら王をApple Watchで動作するようビルドした。評価関数は、nodchip氏が公開している、将棋AI Haoで生成された[学習データ](https://huggingface.co/datasets/nodchip/shogi_hao_depth9)を入力とし、nnue-pytorchを用いて独自に学習した。モデル構造は標準NNUEである。
   * 利用ハードウェアはApple Watch Series 9。
