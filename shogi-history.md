@@ -4,7 +4,7 @@ title: "コンピュータ将棋大会参加履歴"
 permalink: /shogi-history/
 ---
 
-参加ソフト名は常に「ねね将棋」(NENE Shogi)。中身は毎回大きく異なる。
+参加ソフト名は原則として「ねね将棋」(NENE Shogi)。中身は毎回大きく異なる。
 
 ねね将棋の由来: (1)利用している技術「NEural NEtwork」（ニューラルネットワーク）から文字を取ってNENE。(2)漫画「NEW GAME!」の登場人物「ねねっち」が作中で開発したゲーム「NENE QUEST」の形式（NENE＋ゲームジャンル）を踏襲。
 
@@ -98,6 +98,11 @@ permalink: /shogi-history/
   * 第4回世界将棋AI電竜戦 本戦からの差分: Macの支援を不要とするよう、USIプロトコルとCSAプロトコルの変換およびGUIを独自実装。
   * ふかうら王側の評価関数は「強い将棋ソフトの作り方」のサンプルコードで学習したdlshogiベース。
   * 利用ハードウェアはiPhone 15 Pro。
+* 2024-06-29 [第5回電竜戦TSEC指定局面戦](https://denryu-sen.jp/denryusen/dr5_tsec/dr1_live.php)
+  * オンライン開催
+  * ソフト名「うぉっち・ざ・るーく！」由来：漫画「ぼっち・ざ・ろっく！」のタイトルにインスパイアされた。スマートウォッチを使っている点をアピールする名前にした。一回限りのネタソフトなので、「ねね将棋」シリーズとは別の名前を付けた。
+  * やねうら王をApple Watchで動作するようビルドした。評価関数は、nodchip氏が公開している、将棋AI Haoで生成された[学習データ](https://huggingface.co/datasets/nodchip/shogi_hao_depth9)を入力とし、nnue-pytorchを用いて独自に学習した。モデル構造は標準NNUEである。
+  * 利用ハードウェアはApple Watch Series 9。
 
 記載ないものはオフライン開催。
 
