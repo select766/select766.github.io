@@ -33,3 +33,6 @@ permalink: /event-history/
   * 既刊については電子書籍のみ配布。
 * 2024-05-25 [技術書典16](https://techbookfest.org/event/tbf16) (オンラインイベント) 配置: イ32(オンライン) [サークル情報](https://techbookfest.org/organization/29050048)
   * 新刊なし。
+* 2024-11-02 [技術書典17](https://techbookfest.org/event/tbf17) (オンラインイベント) 配置: ア37（オンライン）[サークル情報](https://techbookfest.org/organization/29050048)
+  * 新刊なし。
+
