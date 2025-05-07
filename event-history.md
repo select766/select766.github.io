@@ -35,4 +35,7 @@ permalink: /event-history/
   * 新刊なし。
 * 2024-11-02 [技術書典17](https://techbookfest.org/event/tbf17) (オンラインイベント) 配置: ア37（オンライン）[サークル情報](https://techbookfest.org/organization/29050048)
   * 新刊なし。
+* 2025-05-31 [技術書典18](https://techbookfest.org/event/tbf18) (池袋サンシャインシティ/オンライン) 配置: せ07（オフライン）[サークル情報](https://techbookfest.org/organization/29050048)
+  * オフライン開催は2025-06-01
+  * TBA
 
