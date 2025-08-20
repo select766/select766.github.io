@@ -18,6 +18,7 @@ layout: home
   * PokéAI #2:初代3vs3編 2019-04-14 (技術書典6) [全文PDF無料]({{site.baseurl}}/download/PokeAI-201904-with-hyosi.pdf)
   * PokéAI #3:金銀導入編 2019-12-31 (コミックマーケット97) [全文PDF無料]({{site.baseurl}}/download/PokeAI-201912-with-dlc202003.pdf)
   * PokéAI #4:金銀汎用行動選択モデル編 2020-09-13 (技術書典9) [全文PDF無料]({{site.baseurl}}/download/PokeAI-202009-with-hyosi-dlc202209.pdf)
+  * PokéAI 2025年5月号:見せ合い選出の最適化およびパーティ構築への応用 2025-05-31 (技術書典18) [技術書典マーケット](https://techbookfest.org/product/3GhShSS5sV8p8JzBZbekM8)
 * 単発本
   * Deep Learning Code Golfやってみた 2022-01-22 (技術書典12) [技術書典マーケット](https://techbookfest.org/product/6261454606958592)
   * ゲームボーイに強化学習を実装してみた 2023-11-11 (技術書典15) [技術書典マーケット](https://techbookfest.org/product/1QYFFvrVeTDUU3u4HnkE9p)
