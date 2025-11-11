@@ -19,8 +19,9 @@ layout: home
   * PokéAI #3:金銀導入編 2019-12-31 (コミックマーケット97) [全文PDF無料]({{site.baseurl}}/download/PokeAI-201912-with-dlc202003.pdf)
   * PokéAI #4:金銀汎用行動選択モデル編 2020-09-13 (技術書典9) [全文PDF無料]({{site.baseurl}}/download/PokeAI-202009-with-hyosi-dlc202209.pdf)
   * PokéAI 2025年5月号:見せ合い選出の最適化およびパーティ構築への応用 2025-05-31 (技術書典18) [技術書典マーケット](https://techbookfest.org/product/3GhShSS5sV8p8JzBZbekM8)
+  * PokéAI 2025年11月号:SVシンプル1on1の自動考察 2025-11-15 (技術書典19) [技術書典マーケット](https://techbookfest.org/product/d43b4pa5NLpuJge0VPStwB)
 * 単発本
-  * Deep Learning Code Golfやってみた 2022-01-22 (技術書典12) [技術書典マーケット](https://techbookfest.org/product/6261454606958592)
+  * Deep Learning Code Golfやってみた 2022-01-22 (技術書典12) [全文PDF無料]({{site.baseurl}}/download/dlcodegolf-20220123.pdf)
   * ゲームボーイに強化学習を実装してみた 2023-11-11 (技術書典15) [技術書典マーケット](https://techbookfest.org/product/1QYFFvrVeTDUU3u4HnkE9p)
 
 <a class="twitter-timeline" data-lang="ja" data-height="600" href="https://twitter.com/select766?ref_src=twsrc%5Etfw">Tweets by select766</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
