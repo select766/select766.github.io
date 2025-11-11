@@ -38,7 +38,7 @@ permalink: /event-history/
 * 2025-05-31 [技術書典18](https://techbookfest.org/event/tbf18) (池袋サンシャインシティ/オンライン) 配置: せ07（オフライン）[サークル情報](https://techbookfest.org/organization/29050048)
   * オフライン開催は2025-06-01
   * 新刊: 「[PokéAI 2025年5月号:見せ合い選出の最適化およびパーティ構築への応用](https://techbookfest.org/product/3GhShSS5sV8p8JzBZbekM8)」 紙版・電子書籍版
-  * 既刊: 「[PokéAI #4:金銀汎用行動選択モデル編](https://techbookfest.org/product/6193914738376704)」 紙版を初めて発行
+  * 既刊: 「[PokéAI #4:金銀汎用行動選択モデル編](https://techbookfest.org/product/6193914738376704)」 紙版を初めて発行(#4.5 DLC部分含む)
 * 2025-11-15 [技術書典18](https://techbookfest.org/event/tbf19) (池袋サンシャインシティ/オンライン) 配置: す04（オフライン）[サークル情報](https://techbookfest.org/organization/29050048)
   * オフライン開催は2025-11-16
   * 新刊: 「[PokéAI 2025年11月号:SVシンプル1on1の自動考察](https://techbookfest.org/product/d43b4pa5NLpuJge0VPStwB)」 紙版・電子書籍版
