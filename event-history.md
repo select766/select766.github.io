@@ -40,5 +40,6 @@ permalink: /event-history/
   * 新刊: 「[PokéAI 2025年5月号:見せ合い選出の最適化およびパーティ構築への応用](https://techbookfest.org/product/3GhShSS5sV8p8JzBZbekM8)」 紙版・電子書籍版
 * 2025-11-15 [技術書典18](https://techbookfest.org/event/tbf19) (池袋サンシャインシティ/オンライン) 配置: す04（オフライン）[サークル情報](https://techbookfest.org/organization/29050048)
   * オフライン開催は2025-11-16
-  * 刊行物は今後発表
-
+  * 新刊: 「[PokéAI 2025年11月号:SVシンプル1on1の自動考察](https://techbookfest.org/product/d43b4pa5NLpuJge0VPStwB)」 紙版・電子書籍版
+* 2025-12-31 コミックマーケット107 (東京ビッグサイト) 配置: 水曜日南i09a [サークル情報](https://portal.circle.ms/Circle/Index/10423250)
+  * 頒布内容は後日発表
