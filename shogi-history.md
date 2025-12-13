@@ -119,6 +119,7 @@ permalink: /shogi-history/
   * 記事 <https://select766.hatenablog.com/entry/2025/12/07/191158>
   * ソフト名「ハルシネ将棋」。AIが生成する誤情報、いわゆる「ハルシネーション」に由来。
   * 最新の大規模言語モデル（LLM）である Gemini 3 Pro が将棋の指し手と実況の両方を担うという、全く新しいコンセプトの将棋AI。
+  * 自動実況配信 <https://www.youtube.com/live/jeKmKzeGCuQ?si=kIKPHnhP5IcJqYLC>
   * 利用ハードウェアはGoogle Cloud (GeminiをAPIで呼び出し）および、対局サーバとの仲介・映像配信を行うWindows 11デスクトップパソコン。
 
 記載ないものはオフライン開催。
