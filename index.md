@@ -5,7 +5,7 @@
 layout: home
 ---
 
-主なコンテンツは[ブログ](https://select766.hatenablog.com/)にあります。
+主なコンテンツは[ブログ](https://select766.hatenablog.com/)とYouTubeの[せれくとチャンネル](https://www.youtube.com/@select766)にあります。
 
 [同人誌即売会参加履歴](/event-history)
 
