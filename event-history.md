@@ -43,4 +43,4 @@ permalink: /event-history/
   * オフライン開催は2025-11-16
   * 新刊: 「[PokéAI 2025年11月号:SVシンプル1on1の自動考察](https://techbookfest.org/product/d43b4pa5NLpuJge0VPStwB)」 紙版・電子書籍版
 * 2025-12-31 コミックマーケット107 (東京ビッグサイト) 配置: 水曜日南i09a [サークル情報](https://portal.circle.ms/Circle/Index/10423250)
-  * 頒布内容は後日発表
+  * 新刊: 「将棋AIストリーマー開発入門」 紙版・電子書籍版
