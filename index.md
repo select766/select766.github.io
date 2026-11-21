@@ -23,5 +23,7 @@ layout: home
 * 単発本
   * Deep Learning Code Golfやってみた 2022-01-22 (技術書典12) [全文PDF無料]({{site.baseurl}}/download/dlcodegolf-20220123.pdf)
   * ゲームボーイに強化学習を実装してみた 2023-11-11 (技術書典15) [技術書典マーケット](https://techbookfest.org/product/1QYFFvrVeTDUU3u4HnkE9p)
+  * ＡＩに攻略本を作らせたい！〜Wikipediaゴルフ編〜 2025-11-15 (技術書典18) [技術書典マーケット](https://techbookfest.org/product/aXvqxsNigNXABU04pZtqXz)
+  * 最新将棋AIを1995年のPC環境に移植してみた 2026-11-21 (技術書典21) [技術書典マーケット](https://techbookfest.org/product/xcbz5X3eKrU5dvbn6AkUxF)
 
 <a class="twitter-timeline" data-lang="ja" data-height="600" href="https://twitter.com/select766?ref_src=twsrc%5Etfw">Tweets by select766</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
