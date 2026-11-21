@@ -45,3 +45,5 @@ permalink: /event-history/
   * 新刊: 「[ＡＩに攻略本を作らせたい！〜Wikipediaゴルフ編〜](https://techbookfest.org/product/aXvqxsNigNXABU04pZtqXz)」 紙版・電子書籍版
 * 2025-12-31 コミックマーケット107 (東京ビッグサイト) 配置: 水曜日南i09a [サークル情報](https://portal.circle.ms/Circle/Index/10423250)
   * 新刊: 「将棋AIストリーマー開発入門」 紙版・電子書籍版
+* 2026-11-21 [技術書典21](https://techbookfest.org/event/tbf21) (オンラインイベント) 配置: オ34（オンライン）[サークル情報](https://techbookfest.org/organization/29050048)
+  * 新刊: 「[最新将棋AIを1995年のPC環境に移植してみた](https://techbookfest.org/product/xcbz5X3eKrU5dvbn6AkUxF)」 電子書籍版のみ
